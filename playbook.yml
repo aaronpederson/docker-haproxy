@@ -1,0 +1,9 @@
+---
+- connection: local
+  hosts: localhost
+  roles:
+    - role: telusdigital.haproxy
+
+  vars:
+    haproxy_stats_user: username
+    haproxy_stats_password: password
