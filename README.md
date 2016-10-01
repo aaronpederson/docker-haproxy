@@ -2,7 +2,7 @@
 
 [Haproxy](http://www.haproxy.org/) - The reliable, high performance TCP/HTTP load balancer.
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/haproxy.svg)](https://microbadger.com/images/aaronpederson/haproxy "Get your own image badge on microbadger.com")
 
 Tunables
 --------
